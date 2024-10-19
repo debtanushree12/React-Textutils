@@ -1,14 +1,15 @@
 {
   "files": {
-    "main.css": "/debtanushree12/Textutils-1-React/static/css/main.31d6cfe0.css",
-    "main.js": "/debtanushree12/Textutils-1-React/static/js/main.e792c6ef.js",
-    "static/js/453.9b53eb6d.chunk.js": "/debtanushree12/Textutils-1-React/static/js/453.9b53eb6d.chunk.js",
-    "index.html": "/debtanushree12/Textutils-1-React/index.html",
-    "main.e792c6ef.js.map": "/debtanushree12/Textutils-1-React/static/js/main.e792c6ef.js.map",
-    "453.9b53eb6d.chunk.js.map": "/debtanushree12/Textutils-1-React/static/js/453.9b53eb6d.chunk.js.map"
+    "main.css": "/static/css/main.2890232c.css",
+    "main.js": "/static/js/main.611e17c8.js",
+    "static/js/453.9b53eb6d.chunk.js": "/static/js/453.9b53eb6d.chunk.js",
+    "index.html": "/index.html",
+    "main.2890232c.css.map": "/static/css/main.2890232c.css.map",
+    "main.611e17c8.js.map": "/static/js/main.611e17c8.js.map",
+    "453.9b53eb6d.chunk.js.map": "/static/js/453.9b53eb6d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.31d6cfe0.css",
-    "static/js/main.e792c6ef.js"
+    "static/css/main.2890232c.css",
+    "static/js/main.611e17c8.js"
   ]
 }
